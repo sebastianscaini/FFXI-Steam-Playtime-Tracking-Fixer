@@ -1,0 +1,15 @@
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\bin\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.exe
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\bin\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.deps.json
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\bin\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.runtimeconfig.json
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\bin\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.dll
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\bin\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.pdb
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.AssemblyInfoInputs.cache
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.AssemblyInfo.cs
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.csproj.CoreCompileInputs.cache
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.sourcelink.json
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.dll
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\refint\FFXI Steam Playtime Tracking Fixer.dll
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.pdb
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\FFXI Steam Playtime Tracking Fixer.genruntimeconfig.cache
+C:\Users\Seb\Documents\GitHub\FFXI-Steam-Playtime-Tracking-Fixer\FFXI Steam Playtime Tracking Fixer\obj\Debug\net8.0\ref\FFXI Steam Playtime Tracking Fixer.dll

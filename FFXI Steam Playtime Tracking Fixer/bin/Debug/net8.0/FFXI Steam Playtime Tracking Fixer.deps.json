@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FFXI Steam Playtime Tracking Fixer/1.0.0": {
+        "runtime": {
+          "FFXI Steam Playtime Tracking Fixer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FFXI Steam Playtime Tracking Fixer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
