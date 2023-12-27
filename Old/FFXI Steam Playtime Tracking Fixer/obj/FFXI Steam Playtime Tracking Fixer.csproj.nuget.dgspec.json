@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seb\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj": {}
+    "C:\\Users\\sebro\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\Old\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seb\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj": {
+    "C:\\Users\\sebro\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\Old\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seb\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj",
+        "projectUniqueName": "C:\\Users\\sebro\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\Old\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj",
         "projectName": "FFXI Steam Playtime Tracking Fixer",
-        "projectPath": "C:\\Users\\Seb\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj",
-        "packagesPath": "C:\\Users\\Seb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seb\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\FFXI Steam Playtime Tracking Fixer\\obj\\",
+        "projectPath": "C:\\Users\\sebro\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\Old\\FFXI Steam Playtime Tracking Fixer\\FFXI Steam Playtime Tracking Fixer.csproj",
+        "packagesPath": "C:\\Users\\sebro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebro\\Documents\\GitHub\\FFXI-Steam-Playtime-Tracking-Fixer\\Old\\FFXI Steam Playtime Tracking Fixer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Seb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FFXI Steam Playtime Tracking Fixer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a908612c8f8ac240178f2996334f334df44cb284")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FFXI Steam Playtime Tracking Fixer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FFXI Steam Playtime Tracking Fixer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
