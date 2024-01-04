@@ -195,7 +195,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Caelestis for Tool_0: 4668011888573719677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
